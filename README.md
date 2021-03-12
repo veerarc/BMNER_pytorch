@@ -1,4 +1,4 @@
-# BMNER_pytorch
+# Biomedical Named Entity Recognition
 
 **BMNER_pytorch repository** is a deep learning implementation of Biomedical Named Entity Recognition. The implementation includes Bi-directional LSTM with attention layer using Pytorch library.
 
