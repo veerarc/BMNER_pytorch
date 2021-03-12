@@ -2,6 +2,8 @@
 
 **BMNER_pytorch repository** is a deep learning implementation of Biomedical Named Entity Recognition. The implementation includes Bi-directional LSTM with attention layer using Pytorch library. It also supports the neural network for adversarial training. 
 
+![Bi-LSTM Neural Network architecture](Attn-bi-lstm_3.png) 
+
 ## Source:
 
 * **code folder:** contains the implementation of neural network and supporting files in python programming language.
