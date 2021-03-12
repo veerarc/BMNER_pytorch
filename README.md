@@ -5,12 +5,12 @@
 ## Source:
 
 * **code folder:** contains the implementation of neural network and supporting files in python programming language.
-  * **`train_bilstm.py`**: Main class to run Bi-LSTM \
-  * **`train_bilstm_attn_adversarial.py`**: Main class to run Bi-LSTM with attention. \
-  * **`model.py`**: contains the neural network architecture of Bi-LSTM. \
-  * **`model_attn_adversarial.py`**: contains the neural network architecture of Bi-LSTM with attention layer and adversarial training.\
-  * **`loader.py`**: loads the input sentences and their respective tags.\
-  * **`utils.py`**: contains the functions used for preprocessing step.\
+  * **`train_bilstm.py`**: Main class to run Bi-LSTM. 
+  * **`train_bilstm_attn_adversarial.py`**: Main class to run Bi-LSTM with attention. 
+  * **`model.py`**: contains the neural network architecture of Bi-LSTM. 
+  * **`model_attn_adversarial.py`**: contains the neural network architecture of Bi-LSTM with attention layer and adversarial training.
+  * **`loader.py`**: loads the input sentences and their respective tags.
+  * **`utils.py`**: contains the functions used for preprocessing step.
 
 
 
